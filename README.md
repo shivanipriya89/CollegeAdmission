@@ -1,2 +1,2 @@
 # CollegeAdmission
-This Project has PDF,excel and csv file of College Admission
+This Data Science  Project has PDF,excel and csv file of College Admission
